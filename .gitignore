@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+*.log
+.env
+.DS_Store
+
+# Reference material used while building the SDK, not part of the package
+Razorpay APIs.postman_collection.json

@@ -1,6 +1,6 @@
 {
   "name": "razorpayx-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Unofficial Node.js SDK for the RazorpayX API (Contacts, Fund Accounts, Payouts, Payout Links, Transactions, Account Validation, Balances) written in TypeScript.",
   "keywords": [
     "razorpayx",

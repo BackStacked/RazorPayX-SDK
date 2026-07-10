@@ -9,6 +9,8 @@ An unofficial, dependency-free Node.js SDK for the [RazorpayX](https://razorpay.
 
 > This is a community SDK and is not published or endorsed by Razorpay.
 
+For a condensed API reference designed for LLMs/coding agents, see [llms.md](llms.md).
+
 ## Install
 
 ```bash
